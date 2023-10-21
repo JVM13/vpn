@@ -1,7 +1,7 @@
 # Steps to stream the Greatest League in the World™ for free  
 ## Create a free VPN account with ProtonVPN  
 
-Go to www.protonvpn.com  
+Go to [www.protonvpn.com](www.protonvpn.com)
 Select **Create Account** in the top right corner  
 ![1](https://github.com/JVM13/vpn/assets/91260449/14a13968-1e1d-498e-b241-3d470374bd49)  
 
@@ -25,7 +25,7 @@ Either write down the password and click **Continue with this password** and **C
 ## Download ProtonVPN  
 You shoukd now be logged ProtonVPN and see your account in the top right corner  
 Click **Download** when you see this page  
-If don't see the above page go here here https://account.protonvpn.com/downloads and select the client you want to install ProtonVPN on  
+If don't see the above page go here here [https://account.protonvpn.com/downloads](https://account.protonvpn.com/downloads) and select the client you want to install ProtonVPN on  
 ![7](https://github.com/JVM13/vpn/assets/91260449/4f560bed-a4d9-4f07-92b4-188e0abf37f3)  
 
 
